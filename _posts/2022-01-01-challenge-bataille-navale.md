@@ -15,7 +15,7 @@ En même temps, nous en profitons pour lancer notre premier challenge de codage 
 
 Pour participer, vous devez envoyer votre code avant le 25 janvier à 23h59.
 
-En fonction de l'évolution des conditions sanitaires, nous rassemblerons toutes les personnes volontaires pour juger le code produit par les participants (conditions à venir).
+Le 26 janvier à 20h30, nous rassemblerons, en visio, des personnes volontaires pour juger le code produit par les participants.
 
 Lors de cette soirée, nous allons, dans un premier temps, faire affronter les codes entre eux pour déterminer lequel a implémenté le meilleur algorithme.
 
@@ -23,6 +23,6 @@ Ensuite, on sélectionnera tout ou partie des meilleurs classés et nous procéd
 
 Enfin, collégialement, nous désignerons le meilleur code.
 
-La séance d'analyse sera retransmise en direct (youtube, twitch ou discord, on ne sait pas encore).
+La séance d'analyse sera retransmise en direct sur notre chaîne Youtube à cette adresse: https://youtu.be/ocHZ3CIwuzA
 
 Tous les détails sont ici : [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01#readme) 
