@@ -4,7 +4,7 @@ title: 'Challenge de codage : Bataille navale'
 date: 2022-01-01T17:06:00+00:00
 author: Frédéric Bouchery
 layout: post
-guid: http://rennes.afup.org/?p=1
+guid: /archives/?p=1
 permalink: /2022/01/01/challenge-bataille-navale/
 categories:
 - Général
